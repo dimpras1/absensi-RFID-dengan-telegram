@@ -27,8 +27,8 @@ MFRC522 rfid(SS_PIN, RST_PIN);
 //| **SDA**      | 21
 
 // -------------------- WIFI & TELEGRAM --------------------
-const char* ssid = "fck messi";
-const char* password = "ronaldofreak";
+const char* ssid = "*******";
+const char* password = "********";
 #define BOTtoken "8245745549:AAEiDhz8dbLnztE8wmbRv2HA_BiyqCMjwJw"
 #define CHAT_ID "5904921434"
 
